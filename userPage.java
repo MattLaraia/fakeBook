@@ -4,8 +4,6 @@ import java.io.IOException;
 import java.nio.file.NoSuchFileException;
 import java.util.HashSet;
 import java.util.Set;
-
-
 import edu.hofstra.cs.csc17.Fakebook.Displayable;
 import edu.hofstra.cs.csc17.Fakebook.User;
 import edu.hofstra.cs.csc17.Fakebook.UserPictureData;
